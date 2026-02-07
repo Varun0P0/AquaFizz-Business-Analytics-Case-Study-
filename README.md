@@ -1,4 +1,4 @@
-# AquaFizz-Business-Analytics-Case-Study-
+# AquaFizz-Business-Analytics-Case-Study
 
 ## Overview
 
